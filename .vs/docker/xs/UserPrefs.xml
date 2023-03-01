@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{AF2E8002-DA07-4D55-85FD-69E9EF9FF61E}|http">
+  <MonoDevelop.Ide.Workbench ActiveDocument="docker/WeatherForecast.cs">
+    <Files>
+      <File FileName="docker/Program.cs" Line="12" Column="39" />
+      <File FileName="docker/appsettings.json" Line="1" Column="1" />
+      <File FileName="docker/WeatherForecast.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="docker" expanded="True">
+            <Node name="docker" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="WeatherForecast.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
